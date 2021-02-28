@@ -1,2 +1,2 @@
-# git e github / cursoemvideo
- aulas de git e github
+# git e github
+ CursoemVideo
